@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-data_path_unemployment = 'C:/Users/Sudhansu Kumar Singh/Downloads/unemployment_dataset/Unemployment_Rate_upto_11_2020.csv'
+data_path_unemployment = 'Unemployment_Rate_upto_11_2020.csv'
 unemployment_df = pd.read_csv(data_path_unemployment)
 
 # Display the first few rows
